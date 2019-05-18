@@ -7,9 +7,11 @@
 * Hadoop
 
 * Spark 
-    *Spark SQL
-    *Spark MLib
-*Scala
+    **Spark SQL
+    **Spark MLib
+
+    
+* Scala
 
 
 # IDEs
